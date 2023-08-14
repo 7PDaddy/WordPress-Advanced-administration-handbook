@@ -12,6 +12,7 @@ We recommend that you save or bookmark this page as a reference for learning whi
 - [Block Editor Handbook](https://developer.wordpress.org/block-editor/).
 
 ## General Web Development Education
+
 WordPress.org has released [Learn WordPress](https://learn.wordpress.org/) which will guide you through several topics around developing for WordPress.
 
 [freeCodeCamp](https://freecodecamp.org/) is a free and open source education platform and is not WordPress-specific. They offer instruction, demo projects, and their own certification that have helped millions learn HTML, CSS and JavaScript.
@@ -27,11 +28,13 @@ Also, since you'll be writing code, it would be good to familiarize yourself wit
 Beyond that, these are some resources you might find helpful for each of the languages.
 
 ## HTML
+
 - [W3Schools HTML](https://www.w3schools.com/tags/default.asp)
 - [Learn How to Make Websites](https://developer.mozilla.org/en-US/learn)
 
 ## CSS
-If this is your first time using CSS with WordPress, [this document](https://wordpress.org/support/article/css/) provides a fantastic overview
+
+If this is your first time using CSS with WordPress, [this document](https://developer.wordpress.org/advanced-administration/wordpress/css/) provides a fantastic overview
 
 Other than that, these are some solid resources for you to review:
 
@@ -52,6 +55,7 @@ Other than that, these are some solid resources for you to review:
 - [ReactJS](https://reactjs.org/)
 
 ## PHP
+
 - [PHP Language Reference](http://php.net/manual/en/langref.php)
 - [PHP Function Reference](http://php.net/manual/en/funcref.php)
 - [W3Schools PHP](https://www.w3schools.com/php/default.asp)
@@ -60,6 +64,7 @@ Other than that, these are some solid resources for you to review:
 - [SitePoint's PHP resources](https://www.sitepoint.com/php/)
 
 ### Books
+
 - The good folks at WebDev Studios have put out several books on WordPress theming, plugin development, and also how to use WordPress. You can find a list of their books [here](https://webdevstudios.com/books/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a book series on modern JS development. This the Github repo for the books, or you can purchase physical copies.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
@@ -69,4 +74,4 @@ Other than that, these are some solid resources for you to review:
 
 ## Changelog
 
-- 2022-09-04: Created, based on [Github](https://github.com/WordPress/Documentation-Issue-Tracker/issues/328#issuecomment-1144870008).
+- 2022-09-04: Original content from [Know Your Sources](https://codex.wordpress.org/Know_Your_Sources), based on ticket [Github](https://github.com/WordPress/Documentation-Issue-Tracker/issues/328#issuecomment-1144870008).
